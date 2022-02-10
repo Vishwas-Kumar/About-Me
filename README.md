@@ -1,9 +1,11 @@
 # About-Me
 
-👋 Hi, I’m @Vishwas-Kumar from Patna, Bihar. 
+👋 Hi, I’m @Vishwas-Kumar from Patna, Bihar.
 
-👀 I’m interested in learning new skills.
+👨🏻‍💻 Passionate and self-taught Front-End Developer and Digital Marketer.
 
-🌱 Currently I'm learning MERN at Masai School.  
+👀 Interested in learning new skills.
+
+🌱 Currently I'm learning MERN at Masai School.
 
 📫 Reach me out at vishkkb@gmail.com
