@@ -1,6 +1,6 @@
 # About-Me
 
-👋 Hi, I’m @Vishwas-Kumar from Patna, Bihar.
+**.** 👋 Hi, I’m @Vishwas-Kumar from Patna, Bihar.
 
 👨🏻‍💻 Passionate and self-taught Front-End Developer and Digital Marketer.
 
